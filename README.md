@@ -19,6 +19,9 @@ Edit configuration
 
 **Homebridge for Apple HomeKit**
 
+For using Pi camera in daemon mode
+- $ sudo usermod -a -G video homebridge
+
 - $ sudo systemctl start homebridge.service
 - $ sudo systemctl stop homebridge.service
 - $ sudo systemctl status homebridge.service
