@@ -12,6 +12,10 @@ $ sysctl stop home-assistant@homeassistant.service
 Edit configuration
 
 $ sh toha.sh
+
 $ cd 
+
 $ vi .homeassistant/configuration.yaml
+
+
 
